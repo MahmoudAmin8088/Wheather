@@ -1,0 +1,67 @@
+.navbar span{
+    font-size: 12px;
+}
+.navbar a 
+{
+    color: white;
+   
+}
+.navbar ul li a{
+    margin-left: 40px;
+    border: 1px solid transparent;
+    border-radius:23px;
+    font-size: 13px;
+}
+
+.navbar a:hover{
+    border: 2px solid blue;
+    color: blue;
+}
+
+
+.navbar-nav .nav-link.active{
+    color: blue;
+    border: 2px solid blue;
+
+}
+body{
+    background: #373943;
+}
+
+.weather-body{
+    background-image:url(../img/banner.png);
+    background-position: center center;
+    background-size: cover;
+    height: 360px;
+}
+.card
+{
+    height: 250px;
+}
+.contact
+{
+    background-color: #262936;
+}
+
+footer .btn{
+    margin-left: -105px;
+}
+
+.icon{
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: aqua;
+    background-color: #1E202B;
+}
+
+footer .icon:hover {
+    color: white;
+    background-color: blue;
+}
+
+
+
+
+
